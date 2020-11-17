@@ -28,6 +28,10 @@ import java.sql.SQLException;
  *
  * @author isaura
  */
+
+
+
+
 public class ConnectionFactory
 {
     // Declarações da variáveis, responsáveis para a conexão do Java com o Postgresql
@@ -35,6 +39,10 @@ public class ConnectionFactory
     private String url;  
     private String user;   
     private String senha;   
+    
+    
+    
+    
     
     public Connection getConnection()
     {
