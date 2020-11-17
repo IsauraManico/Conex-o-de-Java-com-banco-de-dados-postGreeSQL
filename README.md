@@ -18,6 +18,12 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 //classe para tratamento de exceções
 
+
+
+
+
+
+
 /**
  *
  * @author isaura
